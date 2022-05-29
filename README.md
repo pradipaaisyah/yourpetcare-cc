@@ -13,4 +13,4 @@ Cloud Computing for Product Based Capstone Project Bangkit Academy 2022
 ## Project Repos
 * [Machine Learning](https://github.com/memelabela/yourpetcare-ml)
 * [Mobile Development](https://github.com/vandarma27/yourpetcare-md)
-* [Cloud Computing](https://github.com/masgal/yourpetcare-cc)
+* [Cloud Computing](https://github.com/pradipaaisyah/yourpetcare-cc)
