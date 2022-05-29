@@ -20,13 +20,13 @@ Cloud Computing for Product Based Capstone Project Bangkit Academy 2022
 Cloud Provider using Google Cloud Platform Services and Firebase :
 
 * Firebase :
-  1. Firebase Cloud Storage
-  2. Firebase Authentication
+1. Firebase Cloud Storage
+2. Firebase Authentication
 
 * Google Cloud Platform :
-  1. Google BigQuery
-  2. Google App Engine
-  3. Google Cloud Vision API
+1. Google BigQuery
+2. Google App Engine
+3. Google Cloud Vision API
 
 ## Progress Report Cloud Computing Path:
 1. Successfully create Firebase and Google Cloud Platform
