@@ -31,4 +31,4 @@ Cloud Provider using Google Cloud Platform Services and Firebase :
 ## Progress Report Cloud Computing Path:
 1. Successfully create Firebase and Google Cloud Platform
 2. Successfully input dataset to Firebase Cloud Storage
-3. Successfully connect to android platform using the API from AppEngine
+3. Successfully connect to android platform using the firebase
