@@ -58,7 +58,7 @@ Before starting create Google Cloud Platform Project and Firebase Project.
 7. Select 'Get Started' button
 8. On the **Sign in method** tab, enable the **Email/Password** provider
 9. Click save
-10. Aftet that, We Refers you follow this tutorial for the command and how to config it on Android Apps : [Authenticate with Firebase Using Email Link in Android](https://firebase.google.com/docs/auth/android/email-link-auth?authuser=0&hl=en#kotlin+ktx_1)
+10. After that, We Refers you follow this tutorial for the command and how to config it on Android Apps : [Authenticate with Firebase Using Email Link in Android](https://firebase.google.com/docs/auth/android/email-link-auth?authuser=0&hl=en#kotlin+ktx_1)
 
 ### Deployment to Google Cloud Platform
 These are step to deploy Machine Learning model using Google Cloud Run
