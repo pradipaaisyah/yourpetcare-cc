@@ -29,10 +29,9 @@ Cloud Provider using Google Cloud Platform Services and Firebase :
 2. Cloud Build
 3. Cloud Storage
 
-## Endpoint
-### Deployed Link
+## Deployed Link
 https://yourpetcare-safmcqat4a-uc.a.run.app
-
+## Endpoint
 ### Recognize Image
 
 - **URL :**
