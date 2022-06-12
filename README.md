@@ -32,9 +32,9 @@ Cloud Provider using Google Cloud Platform Services and Firebase :
 ## Endpoint
 ### Recognize Image
 
-- **URL**
+- **URL :**
   ``` /predict ```
-- **Method**
+- **Method :**
   POST
 - **Responses**
   - **Success**
