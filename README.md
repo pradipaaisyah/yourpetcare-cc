@@ -93,4 +93,4 @@ https://yourpetcare-safmcqat4a-uc.a.run.app
 2. Successfully set permissions for each team member
 3. Successfully connect to Android Application into the Firebase
 4. Successfully create Firebase Authentication in the Firebase Console
-5. Successfully deploy ML Model to the Cloud with Google Run
+5. Successfully deploy ML Tensorflow Model to the Cloud with Google Run
