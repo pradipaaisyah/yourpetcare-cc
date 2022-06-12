@@ -33,9 +33,7 @@ Cloud Provider using Google Cloud Platform Services and Firebase :
 ### Recognize Image
 
 - **URL**
-  ```
-  /predict
-  ```
+  ``` /predict ```
 - **Method**
   POST
 - **Responses**
