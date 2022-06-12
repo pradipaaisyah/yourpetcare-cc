@@ -1,19 +1,12 @@
-# Your Pet Care Cloud Computing
+# Your Pet Care 
+
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1CmBzLhC8ljjB2jcjmYOb2vUIMDb2SQEA"/></p>
+
+Your Pet Care is an android based application that serves all needs related to all pets like dogs and cats it has pet shop features that can be bought online, pet detection, vet consultation, and many more.
+
+# Cloud Computing
 
 Cloud Computing for Product Based Capstone Project Bangkit Academy 2022
-
-## Project Member
-* (ML) M2281G2425 - Dimas Rumekso Putra - Universitas Negeri Medan
-* (ML) M2015G1410 - Futura Milyana Syauqiya Salsabila - Universitas Negeri Yogyakarta
-* (ML) M2393F2954 - Muhamad Azizi - Universitas Serang Raya
-* (MD) A2183G1775 - Firman Diatullah Guna Darma - Universitas Amikom Yogyakarta
-* (MD) A2267F2297 - Putik Aulia Safitri - Universitas Muhammadiyah Sukabumi
-* (CC) C2006F0471 - Pradipa Aisyah Tri Syakina - Universitas Brawijaya
-
-## Project Repos
-* [Machine Learning](https://github.com/memelabela/yourpetcare-ml)
-* [Mobile Development](https://github.com/vandarma27/yourpetcare-md)
-* [Cloud Computing](https://github.com/pradipaaisyah/yourpetcare-cc)
 
 ## Cloud Services
 
@@ -93,3 +86,16 @@ gcloud run deploy --image gcr.io/${GOOGLE_CLOUD_PROJECT}/yourpetcare --platform 
 3. Successfully connect to Android Application into the Firebase
 4. Successfully create Firebase Authentication in the Firebase Console
 5. Successfully deploy ML Tensorflow Model to the Cloud with Google Run
+
+# Project Member
+* (ML) M2281G2425 - Dimas Rumekso Putra - Universitas Negeri Medan
+* (ML) M2015G1410 - Futura Milyana Syauqiya Salsabila - Universitas Negeri Yogyakarta
+* (ML) M2393F2954 - Muhamad Azizi - Universitas Serang Raya
+* (MD) A2183G1775 - Firman Diatullah Guna Darma - Universitas Amikom Yogyakarta
+* (MD) A2267F2297 - Putik Aulia Safitri - Universitas Muhammadiyah Sukabumi
+* (CC) C2006F0471 - Pradipa Aisyah Tri Syakina - Universitas Brawijaya
+
+# Project Repos
+* [Machine Learning](https://github.com/memelabela/yourpetcare-ml)
+* [Mobile Development](https://github.com/vandarma27/yourpetcare-md)
+* [Cloud Computing](https://github.com/pradipaaisyah/yourpetcare-cc)
