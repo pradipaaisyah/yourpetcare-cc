@@ -30,6 +30,9 @@ Cloud Provider using Google Cloud Platform Services and Firebase :
 3. Cloud Storage
 
 ## Endpoint
+### Deployed Link
+https://yourpetcare-safmcqat4a-uc.a.run.app
+
 ### Recognize Image
 
 - **URL :**
@@ -84,9 +87,6 @@ gcloud run deploy --image gcr.io/${GOOGLE_CLOUD_PROJECT}/yourpetcare --platform 
 14. Then the API server can be accessed at: https://yourpetcare-safmcqat4a-uc.a.run.app
 15. Lastly, test the server with Postman. If you successfully deploy to GCP, the result will be like this.
 <img width="679" alt="2022-06-12 (4)" src="https://user-images.githubusercontent.com/99383349/173230097-060c36c2-62c0-4043-87aa-e8e46676bc04.png">
-
-## Deployed Link
-https://yourpetcare-safmcqat4a-uc.a.run.app
 
 ## Progress Report Cloud Computing Path:
 1. Successfully create Firebase Project and Google Cloud Platform Project
