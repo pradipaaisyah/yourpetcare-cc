@@ -15,7 +15,7 @@ Cloud Computing for Product Based Capstone Project Bangkit Academy 2022
 * [Mobile Development](https://github.com/vandarma27/yourpetcare-md)
 * [Cloud Computing](https://github.com/pradipaaisyah/yourpetcare-cc)
 
-## Your Pet Care Cloud Computing
+## Cloud Services
 
 Cloud Provider using Google Cloud Platform Services and Firebase :
 
@@ -27,6 +27,14 @@ Cloud Provider using Google Cloud Platform Services and Firebase :
 1. Google BigQuery
 2. Google App Engine
 3. Google Cloud Vision API
+
+## Endpoint
+
+
+## Deployment Steps
+1.
+2.
+
 
 ## Progress Report Cloud Computing Path:
 1. Successfully create Firebase and Google Cloud Platform
