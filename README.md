@@ -55,7 +55,7 @@ Before starting create Google Cloud Platform Project and Firebase Project.
 
 ### Deployment to Google Cloud Platform
 These are step to deploy Machine Learning model using Google Cloud Run
-1. Enable Cloud Build API & Cloud Run Api
+1. Enable Cloud Build API & Cloud Run API
 2. Activate Cloud Shell Terminal and run this command
   ``` 
   git clone https://github.com/pradipaaisyah/yourpetcare-cc.git
