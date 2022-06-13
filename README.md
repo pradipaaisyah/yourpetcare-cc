@@ -31,6 +31,8 @@ https://yourpetcare-safmcqat4a-uc.a.run.app
   ``` /predict ```
 - **Method :**
   POST
+- **Key :** file
+- **Value :** Files
 - **Responses**
   - **Success**
     - Code : 200
